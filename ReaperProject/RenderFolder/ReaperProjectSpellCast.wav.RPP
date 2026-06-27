@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.75/win64" 1782595070 0
+<REAPER_PROJECT 0.1 "7.75/win64" 1782594989 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -20,7 +20,7 @@
   PANMODE 3
   PANLAWFLAGS 3
   CURSOR 3
-  ZOOM 49.49026122520177 0 0
+  ZOOM 69.66017842343823 0 0
   VZOOMEX 2 33
   USE_REC_CFG 0
   RECMODE 1
@@ -37,7 +37,7 @@
   RENDER_PATTERN $project$region
   RENDER_FMT 0 2 48000
   RENDER_1X 0
-  RENDER_RANGE 3 0 0 0 1000
+  RENDER_RANGE 2 0 0 0 1000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 136
@@ -68,8 +68,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 2.38652747503429 13.07490693587161
-  SELECTION2 2.38652747503429 13.07490693587161
+  SELECTION 13.07490693587161 14.08459163684766
+  SELECTION2 13.07490693587161 14.08459163684766
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -226,7 +226,7 @@
       CHANMODE 0
       GUID {CADEB13F-4576-49DA-BDDC-61995EAF73B5}
       <SOURCE MP3
-        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-fidgeting-494321.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
@@ -251,7 +251,7 @@
       CHANMODE 0
       GUID {BB6CEE32-1BC0-49DE-A3D6-AA0BFED645DE}
       <SOURCE MP3
-        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-fidgeting-494321.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
@@ -276,7 +276,7 @@
       CHANMODE 0
       GUID {6D7532DA-5314-4F66-9F84-4DBC22A6A289}
       <SOURCE MP3
-        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-fidgeting-494321.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
@@ -301,7 +301,7 @@
       CHANMODE 0
       GUID {9A55C3FE-8C7E-4180-A13C-479119F7F989}
       <SOURCE MP3
-        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-fidgeting-494321.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
@@ -326,7 +326,7 @@
       CHANMODE 0
       GUID {434E1F30-2456-478C-86DF-CBCF2488FE82}
       <SOURCE MP3
-        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-fidgeting-494321.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
@@ -395,7 +395,7 @@
       CHANMODE 0
       GUID {D40DC79E-F323-4545-8AB0-61179587A5CF}
       <SOURCE MP3
-        FILE "Media\dragon-studio-harsh-wind-515272.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-harsh-wind-515272.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-harsh-wind-515272.mp3
@@ -447,7 +447,7 @@
       CHANMODE 0
       GUID {9757738A-6406-47BD-856C-D0741BCA6437}
       <SOURCE WAVE
-        FILE "Media\389737__uminari__rocks-texture-10.wav"
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\389737__uminari__rocks-texture-10.wav"
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\389737__uminari__rocks-texture-10.wav
@@ -514,7 +514,7 @@
       CHANMODE 0
       GUID {8ABD3B83-53A3-4749-85D7-C7CC5A9A29D4}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -539,7 +539,7 @@
       CHANMODE 0
       GUID {2C263B27-6838-4911-A903-D8EC7D8A530C}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -564,7 +564,7 @@
       CHANMODE 0
       GUID {BB20412F-A8AD-4F24-9DD1-21E5FEF05122}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -589,7 +589,7 @@
       CHANMODE 0
       GUID {9F934593-D271-4C05-A40D-057807837DF5}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -614,7 +614,7 @@
       CHANMODE 0
       GUID {1487FE3E-DF01-4172-9E58-E5C937E17E8E}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -639,7 +639,7 @@
       CHANMODE 0
       GUID {D5767CC8-EE8B-4AFF-A4B6-1CE3E1FF0792}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -664,7 +664,7 @@
       CHANMODE 0
       GUID {4D42A29C-ED70-4A59-B9B7-858B43535A88}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -689,7 +689,7 @@
       CHANMODE 0
       GUID {B8F7E88E-5AB9-43B2-A521-ECB00B3B3AF6}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -767,7 +767,7 @@
       CHANMODE 0
       GUID {847241F1-19E2-4DB5-AFFC-D4B5F39B5F8A}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-2-393922.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-2-393922.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-2-393922.mp3
@@ -819,7 +819,7 @@
       CHANMODE 0
       GUID {2B24AFF8-0D06-4848-945A-A99389602702}
       <SOURCE MP3
-        FILE "Media\dragon-studio-hard-heavy-impact-515256.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-hard-heavy-impact-515256.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-hard-heavy-impact-515256.mp3
@@ -898,7 +898,7 @@
       CHANMODE 0
       GUID {5F949C92-9D87-47C6-8080-29A06ACCA60F}
       <SOURCE MP3
-        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-earth-spell-impact-478381.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
@@ -950,7 +950,7 @@
       CHANMODE 0
       GUID {D1E30AB7-339B-4B59-AD9B-7AB23F1B1F00}
       <SOURCE MP3
-        FILE "Media\dragon-studio-elemental-spell-impact-earth-478382.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\dragon-studio-elemental-spell-impact-earth-478382.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-elemental-spell-impact-earth-478382.mp3
@@ -1014,7 +1014,7 @@
       CHANMODE 0
       GUID {2964D7CC-B404-4776-BBF1-3624A1A8395F}
       <SOURCE MP3
-        FILE "Media\daviddumaisaudio-sword-slash-with-metal-shield-impact-185433.mp3" 1
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\daviddumaisaudio-sword-slash-with-metal-shield-impact-185433.mp3" 1
       >
       <EXT
         ORIGINAL_FILENAME C:\Users\dawid\Downloads\daviddumaisaudio-sword-slash-with-metal-shield-impact-185433.mp3
@@ -1066,7 +1066,7 @@
       CHANMODE 0
       GUID {8C6FDE79-F3A2-49B5-B61D-7A64727478D5}
       <SOURCE VIDEO
-        FILE "Media\2026-05-31 10-47-28.mkv"
+        FILE "C:\Users\dawid\Desktop\Projekty CDV\TheTavernAudio_pro_blank_refactor\ReaperProject\Media\2026-05-31 10-47-28.mkv"
       >
       <EXT
         ORIGINAL_FILENAME "C:\Users\dszopka\Videos\2026-05-31 10-47-28.mkv"
