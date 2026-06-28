@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{08466e5d-4d6c-476d-bc7d-ba4fd9f57afe}">
+		<property name="name">
+			<value>SpellState</value>
+		</property>
+		<relationship name="folder">
+			<destination>{51e6489d-6a1c-4514-afdf-acce30363fd5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bb8c9a55-beb5-4bb1-8cc5-e71254275a51}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bb8c9a55-beb5-4bb1-8cc5-e71254275a51}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>ChargeLoop</value>
+			<value>Cast</value>
+			<value>Cancel</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -291,19 +291,19 @@ public class AudioSystem : MonoBehaviour
     public void SpellCast()
     {
         SpellSound = RuntimeManager.CreateInstance(spellEvent);
-        SpellSound.setParameterByNameWithLabel("Spell", "Looping");
+        SpellSound.setParameterByNameWithLabel("SpellState", "ChargeLoop");
         SpellSound.start();
     }
 
     public void SpellRelease()
     {
-        SpellSound.setParameterByNameWithLabel("Spell", "Release");
+        SpellSound.setParameterByNameWithLabel("SpellState", "Cast");
         SpellSound.release();
     }
 
     public void SpellCancel()
     {
-        SpellSound.setParameterByNameWithLabel("Spell", "Cancel");
+        SpellSound.setParameterByNameWithLabel("SpellState", "Cancel");
         SpellSound.release();
     }
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5a59c8fe-d9df-4532-bbe0-bd7354cfc65e}">
+		<property name="assetPath">
+			<value>ReaperProjectSpell Loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.688395833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9b665364-0a07-44d3-87c0-4698c66b38db}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -229,7 +229,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 0.4253732, b: 0, a: 1}
-      maxColor: {r: 0, g: 0, b: 0, a: 1}
+      maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -4780,6 +4780,9 @@ ParticleSystemRenderer:
   m_ReflectionProbeUsage: 0
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4878,7 +4881,6 @@ MonoBehaviour:
   chargeChild: {fileID: 3826321047719324576}
   chargedChild: {fileID: 8597431743910197308}
   groundChild: {fileID: 6743338967912299076}
-  groundTag: obstacle
   chargedChildActivationDelay: 0.5
   destroyDelay: 0.5
   colorChangeDelay: 0.5
@@ -4915,6 +4917,18 @@ PrefabInstance:
     - target: {fileID: 854517572230075777, guid: 4b38b1b3e38ed7e499c047067beb6122, type: 3}
       propertyPath: stopAction
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 854517572230075777, guid: 4b38b1b3e38ed7e499c047067beb6122, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.4415095
+      objectReference: {fileID: 0}
+    - target: {fileID: 854517572230075777, guid: 4b38b1b3e38ed7e499c047067beb6122, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.4415095
+      objectReference: {fileID: 0}
+    - target: {fileID: 854517572230075777, guid: 4b38b1b3e38ed7e499c047067beb6122, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.4415095
       objectReference: {fileID: 0}
     - target: {fileID: 4380918445339287248, guid: 4b38b1b3e38ed7e499c047067beb6122, type: 3}
       propertyPath: m_Name
@@ -4993,15 +5007,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2438786960591523784, guid: 7aaee67ac71cee3409e46a097d73ccb6, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.8784314
+      value: 0.05377711
       objectReference: {fileID: 0}
     - target: {fileID: 2438786960591523784, guid: 7aaee67ac71cee3409e46a097d73ccb6, type: 3}
       propertyPath: InitialModule.startColor.maxColor.g
-      value: 0.14509802
+      value: 0.19960104
       objectReference: {fileID: 0}
     - target: {fileID: 2438786960591523784, guid: 7aaee67ac71cee3409e46a097d73ccb6, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.31737375
+      value: 0.3433962
       objectReference: {fileID: 0}
     - target: {fileID: 4697197877042525245, guid: 7aaee67ac71cee3409e46a097d73ccb6, type: 3}
       propertyPath: m_LocalScale.x
@@ -5132,15 +5146,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4297418421029873896, guid: 745cb631ee747894e994759bb0458a8d, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4297418421029873896, guid: 745cb631ee747894e994759bb0458a8d, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.g
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4297418421029873896, guid: 745cb631ee747894e994759bb0458a8d, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.20411658
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297418421029873896, guid: 745cb631ee747894e994759bb0458a8d, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.5326905
+      value: 0.4490565
       objectReference: {fileID: 0}
     - target: {fileID: 4297418421029873896, guid: 745cb631ee747894e994759bb0458a8d, type: 3}
       propertyPath: InitialModule.randomizeRotationDirection

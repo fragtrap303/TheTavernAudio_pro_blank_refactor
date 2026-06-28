@@ -1,0 +1,1234 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1782636824
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 18.6703399239581
+  ZOOM 49.49026122520177 0 0
+  VZOOMEX 2 473
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE C:\Users\dszopka\Documents\GitHub\TheTavernAudio_pro_blank_refactor\ReaperProject
+  RENDER_PATTERN $project$region
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 3 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 136
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 1760 880 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 0 169
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 18.6703399239581 20.81217545636022
+  SELECTION2 18.6703399239581 20.81217545636022
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {585C3124-0DA4-4462-B53A-D8C3BD1D144E}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {BF2342D3-7CD4-4A60-908E-70E073C1696B}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0.95869052415907 "" 0 0 1 R {3943198A-EEBF-4A92-AC37-939BF2DEC0E2}
+  MARKER 1 0.95869052415907 SpellStart 5 0 1 R {9CF084B0-07BC-4921-AAAC-7F1F4E50170F}
+  MARKER 1 2.38652747503429 "" 5 0 1 R
+  MARKER 2 2.38652747503429 "" 0 0 1 R {2EF6F2E9-AF34-4000-8E00-806149A7D14E}
+  MARKER 2 2.38652747503429 "Spell Loop" 5 0 1 R {B047615D-5A04-46AB-8E66-FDDD88136B2D}
+  MARKER 2 13.07490693587161 "" 5 0 1 R
+  MARKER 3 13.07490693587161 "" 0 0 1 R {A3F8F333-A930-4C3B-9CBF-87F366EFD077}
+  MARKER 3 13.07490693587161 SpellCast 5 0 1 R {8F4AB067-C193-4850-A2BB-F61BC3AA8079}
+  MARKER 3 16 "" 5 0 1 R
+  MARKER 4 16 SpellCancel 13 0 1 R {6BDDE0CA-A089-4E48-8D90-2A0AE4D37596}
+  MARKER 4 18.6703399239581 "" 13 0 1 R
+  MARKER 4 16 "" 0 0 1 R {97AAED38-72CF-46A7-BD5C-74FF894A01F1}
+  MARKER 5 18.6703399239581 "" 0 0 1 R {BBF08516-5713-4FD3-BC3A-B65F641934D6}
+  MARKER 5 18.6703399239581 SpellHit 1 0 1 R {7EE122F8-ED1C-4ED5-8F12-E5BE1E0805FD}
+  MARKER 5 20.81217545636022 "" 1 0 1 R
+  MARKER 6 20.81217545636022 "" 0 0 1 R {22FB6ECA-99AC-427D-9F02-EAB62001B639}
+  <PROJBAY
+  >
+  <TRACK {2BEB5A70-4629-4CD4-ABA3-9F56C4778F1B}
+    NAME Loop
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {2BEB5A70-4629-4CD4-ABA3-9F56C4778F1B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 241 494 716 330
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
+        bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
+        776t3g3wrd5fawA/yiYbPgAAgD837dE9rtQzOwAAAAAAAIA/AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAAzcxMPQAAAAAAAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3C9E70AA-997C-4477-9C51-C4E9A3CF83AF}
+      WAK 0 0
+    >
+  >
+  <TRACK {9B017F1E-A1FF-4063-99C9-1EC7362BC4DA}
+    NAME fidgeting
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.52591213123959 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {9B017F1E-A1FF-4063-99C9-1EC7362BC4DA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1460 165 736 461
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
+        bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
+        776t3g3wrd4K1yM8ED74PKabxDsK16M8AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAAzcxMPQAAAAAAAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {09F471D0-1603-45F9-987A-7724A42DCC0D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAGdO6Di/k3FAxud3THvL4j+amZmZmZnpPwEIAAAAAQAAAP7CQNs4z3xAYWY7zR8Y7j8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAHYK9bgvR6BATd/DN3Of4D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EB999945-18B4-4F40-8FDF-91027BF1CFF4}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 2.38652747503429
+      SNAPOFFS 0
+      LENGTH 2.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.5 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {948114DA-68F2-450E-B260-389B22762F1C}
+      IID 10
+      NAME dragon-studio-fidgeting-494321.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11347252496571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CADEB13F-4576-49DA-BDDC-61995EAF73B5}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 2.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.5 1 1 0 0
+      FADEOUT 1.1 0.01 0.226945 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B3C581DA-9B2B-45C0-B430-18D1F22E89D9}
+      IID 10
+      NAME dragon-studio-fidgeting-494321.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11347252496571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB6CEE32-1BC0-49DE-A3D6-AA0BFED645DE}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
+      >
+    >
+    <ITEM
+      POSITION 6.88652747508604
+      SNAPOFFS 0
+      LENGTH 2.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.226945 1 1 0 0
+      FADEOUT 1.1 0.01 0.5 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB78F9D9-3CDD-4CD5-96C8-E5B7E23769BB}
+      IID 10
+      NAME dragon-studio-fidgeting-494321.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11347252496571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D7532DA-5314-4F66-9F84-4DBC22A6A289}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 2.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.5 1 1 0 0
+      FADEOUT 1.1 0.01 1.113473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B222F195-C3B0-458E-A176-AEBE7ADE2CAC}
+      IID 10
+      NAME dragon-studio-fidgeting-494321.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11347252496571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A55C3FE-8C7E-4180-A13C-479119F7F989}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 2.57490693587161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.113473 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42FD8AD4-7973-4A2D-B502-9B326E454491}
+      IID 10
+      NAME dragon-studio-fidgeting-494321.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11347252496571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {434E1F30-2456-478C-86DF-CBCF2488FE82}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-fidgeting-494321.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-fidgeting-494321.mp3
+      >
+    >
+  >
+  <TRACK {1CC1AD88-A646-4A38-A4E5-79D14AF6057A}
+    NAME "Harsh wind"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {1CC1AD88-A646-4A38-A4E5-79D14AF6057A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 112 140 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAPyeUZQvbqBAnNVsyYrp3z+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAF5ZanLKn5FAwrqFLP8G
+        6D8AAAAAAAAAQAEBAAAAAQAAALltvRfOY7VA1JoJvTxJ4D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AP0BAABcAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {90AEC37F-0954-4B83-AB93-2F391607E070}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 2.38652747503429
+      SNAPOFFS 0
+      LENGTH 10.68837946083732
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {112CBE1F-DFD0-454F-A317-89C68605BA6E}
+      IID 3
+      NAME dragon-studio-harsh-wind-515272.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D40DC79E-F323-4545-8AB0-61179587A5CF}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-harsh-wind-515272.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-harsh-wind-515272.mp3
+      >
+    >
+  >
+  <TRACK {14D6C1FA-6265-4DE4-BC6F-00D48D53865F}
+    NAME "rock shifitng 2 loop"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {14D6C1FA-6265-4DE4-BC6F-00D48D53865F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.38652747503429
+      SNAPOFFS 0
+      LENGTH 11.11347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8221E500-8112-4834-BFD9-54DB91A2969C}
+      IID 70
+      NAME 389737__uminari__rocks-texture-10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9757738A-6406-47BD-856C-D0741BCA6437}
+      <SOURCE WAVE
+        FILE "Media\389737__uminari__rocks-texture-10.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\389737__uminari__rocks-texture-10.wav
+      >
+    >
+  >
+  <TRACK {FF0C4862-3EBD-4D79-A5AD-418E6D7EFBF1}
+    NAME "Rock rolling 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 1 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {FF0C4862-3EBD-4D79-A5AD-418E6D7EFBF1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 112 140 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
+        bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
+        776t3g3wrd78ir49ED74PKabxDsK16M8AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAAzcxMPQAAAAAAAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {EA945D1A-D64B-4774-B1F7-D468A44DFF4D}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 2.38652747503429
+      SNAPOFFS 0
+      LENGTH 1.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.5 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A86810E-9321-4D20-8891-938D72BAE949}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8ABD3B83-53A3-4749-85D7-C7CC5A9A29D4}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 1.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.5 1 1 0 0
+      FADEOUT 1.1 0.01 0.113473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0AC0CF31-DBEE-4FFE-BE0F-682E68766127}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C263B27-6838-4911-A903-D8EC7D8A530C}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 1.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.113473 1 1 0 0
+      FADEOUT 1.1 0.01 0.113473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30513217-97AF-463A-8DEC-AFD0B5F75B7F}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB20412F-A8AD-4F24-9DD1-21E5FEF05122}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 1.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.113473 1 1 0 0
+      FADEOUT 1.1 0.01 0.113473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09A14B66-D0BD-4C43-88B0-26D4776F8C4B}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F934593-D271-4C05-A40D-057807837DF5}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 1.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.113473 1 1 0 0
+      FADEOUT 1.1 0.01 0.113473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A0783C6-E27D-42A6-9F01-8CC9678D79E2}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1487FE3E-DF01-4172-9E58-E5C937E17E8E}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 1.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.113473 1 1 0 0
+      FADEOUT 1.1 0.01 0.113473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16C0B147-56DF-4DD7-926B-C58E8B444839}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5767CC8-EE8B-4AFF-A4B6-1CE3E1FF0792}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 1.61347252496571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.113473 1 1 0 0
+      FADEOUT 1.1 0.01 0.613473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {590A0274-4318-406D-A73E-943FFEEC3F44}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D42A29C-ED70-4A59-B9B7-858B43535A88}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.613473 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5E5DE79-EE32-492B-9E72-A5C9A60D4E37}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.59387136710122
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8F7E88E-5AB9-43B2-A521-ECB00B3B3AF6}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+  >
+  <TRACK {8B648050-4786-4427-BC41-7C797C6FC990}
+    NAME "Spell cast"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8B648050-4786-4427-BC41-7C797C6FC990}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {EF266B6D-024B-4FD2-ADCE-FE6EEF19EE62}
+    NAME "earth impact 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EF266B6D-024B-4FD2-ADCE-FE6EEF19EE62}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.07490693587161
+      SNAPOFFS 0
+      LENGTH 1.91584462323322
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5BE632DE-8DCC-4E6E-BC79-FD6558D11DBC}
+      IID 9
+      NAME dragon-studio-earth-spell-impact-2-393922.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.95869052415907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {847241F1-19E2-4DB5-AFFC-D4B5F39B5F8A}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-2-393922.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-2-393922.mp3
+      >
+    >
+  >
+  <TRACK {E51DD207-C841-488C-B7A3-123B50AB9A03}
+    NAME "Heavy impact"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {E51DD207-C841-488C-B7A3-123B50AB9A03}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13.07490693587161
+      SNAPOFFS 0
+      LENGTH 2.88097916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B09C801-72B2-4EAA-9F1F-E484B88AF34D}
+      IID 2
+      NAME dragon-studio-hard-heavy-impact-515256.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B24AFF8-0D06-4848-945A-A99389602702}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-hard-heavy-impact-515256.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-hard-heavy-impact-515256.mp3
+      >
+    >
+  >
+  <TRACK {A4B3DA16-931B-4068-B9C2-FEA42A55BD43}
+    NAME "Spell start"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A4B3DA16-931B-4068-B9C2-FEA42A55BD43}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {634FAFBE-CF30-490A-AB8A-5542464BE299}
+    NAME "earth impact"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {634FAFBE-CF30-490A-AB8A-5542464BE299}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.95869052415907
+      SNAPOFFS 0
+      LENGTH 1.75865513293148
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C04D38C0-D549-4EF1-B85F-80751D1D9E71}
+      IID 6
+      NAME dragon-studio-earth-spell-impact-478381.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45869052415907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F949C92-9D87-47C6-8080-29A06ACCA60F}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-earth-spell-impact-478381.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-earth-spell-impact-478381.mp3
+      >
+    >
+  >
+  <TRACK {99DD2ACA-DF97-49A5-8C56-837ED81D9659}
+    NAME dragon-studio-elemental-spell-impact-earth-478382
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {99DD2ACA-DF97-49A5-8C56-837ED81D9659}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.95869052415907
+      SNAPOFFS 0
+      LENGTH 1.74398915713075
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C213423F-8060-498F-88A4-EB07900F1736}
+      IID 17
+      NAME dragon-studio-elemental-spell-impact-earth-478382.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1E30AB7-339B-4B59-AD9B-7AB23F1B1F00}
+      <SOURCE MP3
+        FILE "Media\dragon-studio-elemental-spell-impact-earth-478382.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dszopka\Downloads\dragon-studio-elemental-spell-impact-earth-478382.mp3
+      >
+    >
+  >
+  <TRACK {2CD3E54C-B2F0-4F9B-9C80-CEEAA88FF14C}
+    NAME daviddumaisaudio-sword-slash-with-metal-shield-impact-185433
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.29012568522805 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2CD3E54C-B2F0-4F9B-9C80-CEEAA88FF14C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 112 140 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS misc/reverseness ""
+        100 6 6 0.3 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8D1DC085-ECB4-43D9-ADDA-652ED8A84D63}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 2.38652747503429
+      SNAPOFFS 0
+      LENGTH 1.53697916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2215B944-21C3-405F-A12B-5875B6A29830}
+      IID 102
+      NAME daviddumaisaudio-sword-slash-with-metal-shield-impact-185433.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2964D7CC-B404-4776-BBF1-3624A1A8395F}
+      <SOURCE MP3
+        FILE "Media\daviddumaisaudio-sword-slash-with-metal-shield-impact-185433.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\dawid\Downloads\daviddumaisaudio-sword-slash-with-metal-shield-impact-185433.mp3
+      >
+    >
+  >
+  <TRACK {953B4DC5-2D7A-41FC-BD7D-C304DC2C79C9}
+    NAME "Spell cancel"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {953B4DC5-2D7A-41FC-BD7D-C304DC2C79C9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {ECAA57E6-D19A-422E-99D5-C2D7159858B6}
+    NAME dragon-studio-wind-gust-386158
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ECAA57E6-D19A-422E-99D5-C2D7159858B6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 2.64718820861678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93070BFB-C438-48B4-B7E6-D3E829284390}
+      IID 104
+      NAME dragon-studio-wind-gust-386158.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FBD6773-4BCF-496C-920A-CAE3593A8F43}
+      <SOURCE MP3
+        FILE "C:\Users\dszopka\Downloads\dragon-studio-wind-gust-386158.mp3" 1
+      >
+    >
+  >
+  <TRACK {6169C69C-85A0-4153-815B-E0D369F54721}
+    NAME "Spell hit"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6169C69C-85A0-4153-815B-E0D369F54721}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {7C99196E-5E12-49DE-BEE1-95BF7F7AA4E3}
+    NAME dragon-studio-boulder-impact-487673
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7C99196E-5E12-49DE-BEE1-95BF7F7AA4E3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 18.6703399239581
+      SNAPOFFS 0
+      LENGTH 2.08897916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C301D5D-3D16-4DDD-B6DF-A02772A1DA7A}
+      IID 106
+      NAME dragon-studio-boulder-impact-487673.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7675018-DA44-4637-958E-E1006730A1AC}
+      <SOURCE MP3
+        FILE "C:\Users\dszopka\Downloads\dragon-studio-boulder-impact-487673.mp3" 1
+      >
+    >
+  >
+  <TRACK {59B75770-8E16-4BE1-90E8-0802FEB52DA7}
+    NAME dragon-studio-heavy-boulder-thud-515257
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {59B75770-8E16-4BE1-90E8-0802FEB52DA7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 18.6703399239581
+      SNAPOFFS 0
+      LENGTH 1.91863924270857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F06E8A69-FE16-4EC5-9E07-1BA82AE2D71D}
+      IID 107
+      NAME dragon-studio-heavy-boulder-thud-515257.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.1703399239581
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27C1416B-30EA-4FF4-BE65-C8CB4F34FE26}
+      <SOURCE MP3
+        FILE "C:\Users\dszopka\Downloads\dragon-studio-heavy-boulder-thud-515257.mp3" 1
+      >
+    >
+  >
+  <TRACK {508C2B9D-FF0A-4B66-87C7-11C639B969FA}
+    NAME Wideo
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {508C2B9D-FF0A-4B66-87C7-11C639B969FA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 15.566
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8C47271-390B-4C8D-A941-B224BDB04B97}
+      IID 26
+      NAME "2026-05-31 10-47-28.mkv"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C6FDE79-F3A2-49B5-B61D-7A64727478D5}
+      <SOURCE VIDEO
+        FILE "Media\2026-05-31 10-47-28.mkv"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\dszopka\Videos\2026-05-31 10-47-28.mkv"
+      >
+    >
+  >
+>
